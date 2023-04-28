@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+according to this image we need to devide a components 
+![image](https://user-images.githubusercontent.com/16557259/231960003-300209f9-7e72-411f-abda-09d56ff55a82.png)
+
+1 Fork a git repo ( https://docs.github.com/en/get-started/quickstart/fork-a-repo )
+2 create a branch 
+3 create a pr 
+4 once pr will approve merge your code 
